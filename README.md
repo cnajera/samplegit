@@ -1,0 +1,2 @@
+# samplegit
+Practicing commands
